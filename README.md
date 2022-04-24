@@ -59,8 +59,8 @@ const ahmedNader = {
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNader65&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AhmedNader65&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=AhmedNader65&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
- <!--START_SECTION:waka-->
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNader65"/>
+</div>
   
-<!--END_SECTION:waka-->
