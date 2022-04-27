@@ -61,6 +61,8 @@ const ahmedNader = {
   
   
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNader65"/>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNader65"/> </br>
+  My goal is to hit a 1 year streak </br>
+  Starting from April 24
 </div>
   
