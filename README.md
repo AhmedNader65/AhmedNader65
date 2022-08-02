@@ -1,6 +1,7 @@
 ### Hello World!  <img src="https://github.com/AhmedNader65/AhmedNader65/blob/master/assets/Hi.gif" width="29px">
-  [![Visits Badge](https://badges.pufler.dev/visits/AhmedNader65/AhmedNader65)](https://badges.pufler.dev/visits/AhmedNader65/AhmedNader65)
-  <!--START_SECTION:waka-->
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednader65&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednader65" /> </p>
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C420%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
