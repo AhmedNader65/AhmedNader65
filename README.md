@@ -65,7 +65,7 @@ const ahmedNader = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedNader65&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedNader65&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="Trophy" />
 </p>
 
 ---
@@ -143,13 +143,16 @@ const ahmedNader = {
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedNader65/AhmedNader65/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedNader65/AhmedNader65/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedNader65/AhmedNader65/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedNader65&theme=radical" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedNader65&theme=radical&utcOffset=2" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedNader65&theme=radical" alt="Repos per Language" />
+</p>
 
 ---
 
